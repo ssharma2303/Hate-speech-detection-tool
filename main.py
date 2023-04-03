@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/12cZ35pBE6JAHIOPF68EzKJ67y8m_4rU-
 """
 
-!pip install tensorflow_text
-!pip install -q tf-models-official==2.11.0
-!pip install tensorflow-addons
+import tensorflow_text
+import -q tf-models-official==2.11.0
+import tensorflow-addons
 
 from google.colab import drive
 
