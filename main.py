@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import tensorflow_text
-import -q tf-models-official==2.11.0
+import  tf-models-official==2.11.0
 import tensorflow-addons
 
 from google.colab import drive
